@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ゴールデンタイムラバー",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-03-18T17:49:35.960756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/01_ゴールデンタイムラバー_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/02_ゴールデンタイムラバー_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー - 2020 Remaster",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/03_ゴールデンタイムラバー_-_2020_Remaster_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー - 2020 Remaster",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/04_ゴールデンタイムラバー_-_2020_Remaster_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/05_ゴールデンタイムラバー_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/06_ゴールデンタイムラバー_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー (backing Track)",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/07_ゴールデンタイムラバー_(backing_Track)_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー (backing track)",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/08_ゴールデンタイムラバー_(backing_track)_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/09_ゴールデンタイムラバー_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/10_ゴールデンタイムラバー_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/11_ゴールデンタイムラバー_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー - Backing Track",
+      "artist": "Sukima Switch",
+      "has_synced": false,
+      "path": "select/12_ゴールデンタイムラバー_-_Backing_Track_Sukima_Switch.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/13_ゴールデンタイムラバー_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー",
+      "artist": "MK",
+      "has_synced": false,
+      "path": "select/14_ゴールデンタイムラバー_MK.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー - Golden Time Lover",
+      "artist": "SUKIMASWITCH",
+      "has_synced": true,
+      "path": "select/15_ゴールデンタイムラバー_-_Golden_Time_Lover_SUKIMASWITCH.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Golden Time Lover ゴールデンタイムラバー",
+      "artist": "sukimaswitch スキマスイッチ",
+      "has_synced": true,
+      "path": "select/16_Golden_Time_Lover_ゴールデンタイムラバー_sukimaswitch_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー - Golden Time Lover",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/17_ゴールデンタイムラバー_-_Golden_Time_Lover_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "第３期OP 「ゴールデンタイムラバー」",
+      "artist": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "has_synced": false,
+      "path": "select/18_第3期OP_「ゴールデンタイムラバー」_鋼の錬金術師_FULLMETAL_ALCHEMIST.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ゴールデンタイムラバー",
+      "artist": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "has_synced": true,
+      "path": "select/19_ゴールデンタイムラバー_鋼の錬金術師_FULLMETAL_ALCHEMIST.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴールデンタイムラバー",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_ゴールデンタイムラバー_星街すいせい.txt"
+    }
+  ]
+}
